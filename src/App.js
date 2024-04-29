@@ -1,7 +1,7 @@
 // App.js
 import React from 'react';
 import './App.css';
-import chaoskampf from './chaoskampf.jpg'; // Make sure the path is correct
+import chaoskampf from './public/chaoskampf.jpg'; // Make sure the path is correct
 
 function App() {
   return (
