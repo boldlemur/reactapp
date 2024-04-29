@@ -4,7 +4,7 @@
 
 .App-header {
   background-color: #282c34;
-  background-image: url('/chaoskampf.jpg'); /* Ensure this is the correct path to your image */
+  background-image: url('chaoskampf.jpg'); /* Ensure this is the correct path to your image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
