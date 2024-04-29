@@ -4,10 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <img src="/chaoskampf.jpg" alt="Chaoskampf" style={{ width: '100%', height: 'auto' }} />
+      <header className="App-header">
+        <h1>Hello World</h1>  {/* Text to display over the background */}
+      </header>
     </div>
   );
 }
 
 export default App;
+
 
